@@ -52,6 +52,11 @@ module.exports = {
         destination: 'https://instagram.com/abranhe',
         permanent: true,
       },
+      {
+        source: '/ig',
+        destination: 'https://instagram.com/abranhe',
+        permanent: true,
+      },
     ];
   },
 };
